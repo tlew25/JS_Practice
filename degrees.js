@@ -16,15 +16,7 @@ function degrees() {
 let names = ['Chantell', 'Ray', 'Julie'];
 names.forEach(hello);
 
-// navigator.geolocation.getCurrentPosition(gotPosition,
-//      positionError, {});
 
-//      function gotPosition(pos){
-
-//      }
-//      function positionError(err){
-
-//      }
 
 function doThings(other) {
 

@@ -1,0 +1,24 @@
+.degree-container{
+    padding: 25px;
+    height: 700px;
+    background-color: #765;
+    border: #000 5px solid;
+    margin: 0 auto;
+}
+#output{
+    font-size: 25pt;
+}
+article{
+    padding: 15px;
+    background-color: #fff;
+    border: #000 2px solid;
+    border-radius: 6px;
+    float: right;
+}
+p{
+    font-size: 12pt;
+}
+h2{
+    font-size: 30pt;
+    text-align: center;
+}
